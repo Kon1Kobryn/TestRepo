@@ -1,2 +1,4 @@
 ZlaZmiana01
 NiezlaZmiana01
+Dodano asystenta pomocy
+Uproszczenie interfejsu graficznego

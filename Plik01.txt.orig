@@ -3,8 +3,9 @@ Zmiana02 Zmiana02a
 Zmiana03
 Zmiana04
 Zmiana05
-oraz
+<<<<<<< HEAD
 Naprawa b³êdów hotfix01
+=======
 Dodano asystenta pomocy
 Uproszczenie interfejsu graficznego
-easierApp
+>>>>>>> easierApp
