@@ -1,3 +1,4 @@
 DobraZmiana01
 DobraDobra
 Dodano asystenta pomocy
+Uproszczenie interfejsu graficznego
