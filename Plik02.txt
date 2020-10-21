@@ -3,3 +3,4 @@ DobraDobra
 Dodano asystenta pomocy
 Uproszczenie interfejsu graficznego
 Zmiana10
+Zmiana nowagalaz
