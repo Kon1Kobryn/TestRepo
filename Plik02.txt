@@ -4,3 +4,4 @@ Dodano asystenta pomocy
 Uproszczenie interfejsu graficznego
 Zmiana10
 Zmiana nowagalaz
+Zmiana 12
